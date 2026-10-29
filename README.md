@@ -24,6 +24,8 @@ Project: https://github.com/kendyfsa/powerBi_Sales_Analytics
 
 A youth risk analytics system using Python, Flask, MySQL, machine learning, and a dashboard.
 
+Project: https://github.com/kendyfsa/Youthwatch-Project
+
 ## Career Objective
 
 To gain practical experience in database management, data analytics, data quality, reporting, and related IT tasks through an internship.
