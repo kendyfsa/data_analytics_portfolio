@@ -18,6 +18,8 @@ This portfolio showcases my academic projects, database skills, data analysis, a
 
 An analytics project focused on data cleaning, key performance indicators, and interactive visualizations.
 
+Project: https://github.com/kendyfsa/powerBi_Sales_Analytics
+
 ### 2. YouthWatch Capstone Project
 
 A youth risk analytics system using Python, Flask, MySQL, machine learning, and a dashboard.
