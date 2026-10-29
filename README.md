@@ -14,18 +14,11 @@ This portfolio showcases my academic projects, database skills, data analysis, a
 
 ## Featured Projects
 
-### 1. Sales & Inventory Database
-Status: Planned
-
-A relational database project demonstrating database design, SQL queries, joins, aggregations, and data integrity.
-
-### 2. Business Analytics Dashboard
-Status: Planned
+### 1. Business Analytics Dashboard
 
 An analytics project focused on data cleaning, key performance indicators, and interactive visualizations.
 
-### 3. YouthWatch Capstone Project
-Status: In progress / academic project
+### 2. YouthWatch Capstone Project
 
 A youth risk analytics system using Python, Flask, MySQL, machine learning, and a dashboard.
 
